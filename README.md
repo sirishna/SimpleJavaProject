@@ -1,2 +1,2 @@
 # SimpleJavaProject
-SimpleJavaProject. Dev-Commit
+SimpleJavaProject. Dev-Commits
